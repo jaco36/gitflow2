@@ -1,0 +1,7 @@
+git clone repo in VS
+https://www.youtube.com/watch?v=i5T-DB8tb4A
+
+bitbucket
+
+
+sourcetree
